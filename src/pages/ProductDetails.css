@@ -1,0 +1,18 @@
+.product-details-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-details-description {
+    color: #495057;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+h1 {
+    color: #343a40;
+    font-size: 2em;
+}
